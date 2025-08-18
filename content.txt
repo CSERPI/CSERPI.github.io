@@ -1,4 +1,4 @@
-The Canadian Space Ethics Research and Policy Institute (CSERPI)
+AstroEthica: Space Ethics Research and Policy Network (ASERPNet) / AstroÉthica : Réseau de recherche et de politiques en éthique spatiale (RRPÉ-S)
 
 Home  		 	About  			Programs/Services	
                      							Space Ethics Advocacy,
@@ -9,8 +9,8 @@ Publications and Dissemination
 
 
 About Us:
-The Canadian Space Ethics Research and Policy Institute (CSERPI) serves as a multidisciplinary platform focused on addressing ethics and policy issues related to current human activities in outer space and resource utilization. The key functions and activities which CSERPI undertake include but are not limited to: Education and Outreach, Policy Analysis and Advocacy, Research, Collaboration and Networking, Publications and Information Dissemination.
-By fulfilling these roles, CSERPI contributes to the responsible and ethical advancement of outer space activities, ensuring that the benefits of space exploration are distributed equitably and that potential harms are mitigated.
+AstroEthica: Space Ethics Research and Policy Network (ASERPNet) serves as a multidisciplinary platform focused on addressing ethics and policy issues related to current human activities in outer space and resource utilization. The key functions and activities which ASERPNet undertake include but are not limited to: Education and Outreach, Policy Analysis and Advocacy, Research, Collaboration and Networking, Publications and Information Dissemination.
+By fulfilling these roles, ASERPNet contributes to the responsible and ethical advancement of outer space activities, ensuring that the benefits of space exploration are distributed equitably and that potential harms are mitigated.
 Education and Outreach
 Public Awareness and Educational Programs: 
 Promotes greater public awareness, educational programs and understanding of the ethical and policy implications associated with human activities in outer space by organizing inclusive workshops, interactive seminars, and public lectures. 
@@ -33,7 +33,7 @@ This includes fostering an inclusive environment that values diverse perspective
 
 By prioritizing EDI, the Canadian space sector can strengthen innovation, enhance collaboration, and reflect the full diversity of Canadian society in shaping the future of space exploration and development.
 Advocacy 
-Advocacy: CSERPI - is dedicated to advancing ethical principles and responsible practices in the exploration and use of outer space. Its advocacy focuses on five core thematic areas:
+Advocacy: ASERPNet - is dedicated to advancing ethical principles and responsible practices in the exploration and use of outer space. Its advocacy focuses on five core thematic areas:
 Security – (State and Human Security Issues) 
 Environmental Ethics – Planetary protection, Zero Debris in Space
 Intergenerational Justice – Mass Resource Extraction, Pollution
@@ -41,7 +41,7 @@ Governance – Outer Space Treaties and Agreements, Sovereignty Issues and Owner
 Human Rights - Championing human rights for present and future generations across all species.
 Outer Space Ethics Research and Policy Analysis
 Ethical Frameworks: 
-CSERPI develops and promotes ethical frameworks for space activities.
+ASERPNet develops and promotes ethical frameworks for space activities.
 Impact Studies: 
 Conducts public interest research on the impacts of space activities and commercialization.
 Research Programs: 
@@ -58,5 +58,5 @@ Academic Journals:
 Publishes research findings in academic journals and other platforms to disseminate knowledge on space ethics.
 
 Conference Presentations:
-CSERPI was represented and presented in South Korea at the 45th COSPAR Scientific Assembly Meeting.   COSPAR Assembly 2024. 
+ASERPNet was represented and presented in South Korea at the 45th COSPAR Scientific Assembly Meeting.   COSPAR Assembly 2024. 
 
